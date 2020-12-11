@@ -9,7 +9,7 @@ Docker-compose to run Laravel apps
 
 * then run command :
 ```bash
-docker-compose -d --build
+docker-compose up -d --build
 ```
 
 * Now you can access your app via` http://127.0.0.1:8080/` or you may change the port .
